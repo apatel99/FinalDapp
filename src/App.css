@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+  background: rgba(0, 139, 139, 0.7);
+}
+
+.section {
+  padding: 3em;
+  border: 5px solid  black;
+  background: #eee;
+}
+
+.sub {
+  background: bisque;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.create-btn{
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+footer {
+  padding: 2em 1em;
+  text-align: center;
+}
+
+input {
+  padding: 0.5em;
+  margin: 1em;
+  font-size: 1em;
+  border-radius: 5px;
+  border: 0;
+  border-bottom: 1px solid black;
+
+}
+
+button {
+  background: #004f7a;
+  padding: 0.5em;
+  font-size: 1em;
+  color:white;
+  border: 0;
+  border-radius: 5px;
+}
+
+.headline {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1em;
+  color:white;
+  box-shadow: inset 0px 0px 10px 5px #000;
+}
+
+
+
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
