@@ -1,5 +1,16 @@
-Testing: https://github.com/apatel99/Finaltest
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Student Registration
+-> Business use case
+This application let's an institution register itself, and view it's ID.
+On the other hand students can register and pay fees using ethers and that amount can be changed in future, but now it is static. Once the registration fees has been paid the status of the student changes and shows him as a registered student for the institute. This application can be built using blockchain to have Ethereum transactions and that is why I chose to make a dapp. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+# Technologies :-
+I have used react and Metamask to build this application and as i have used metamask so didnt use backend.
+Testing is done using embark and link is Testing: https://github.com/apatel99/Finaltest
+I have used firebase for  database. I have not used redux as there is not interaction between components in my app.
+
+
+
 
 ## Available Scripts
 
@@ -62,8 +73,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+I have deployed the dapp using firebase at url https://anish-e3371.firebaseapp.com/
+I have deployed the smart contract on Rinkeby test net at "0x67eda3495b569af4b6184a0fa3d94d98455ee4f8"
 
-### `npm run build` fails to minify
+# Submitted by :-
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Anish patel
+101227442
