@@ -8,6 +8,7 @@ On the other hand students can register and pay fees using ethers and that amoun
 I have used react and Metamask to build this application and as i have used metamask so didnt use backend.
 Testing is done using embark and link is Testing: https://github.com/apatel99/Finaltest
 I have used firebase for  database. I have not used redux as there is not interaction between components in my app.
+and also added stylings from CSS.
 
 
 
