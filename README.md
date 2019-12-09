@@ -1,5 +1,6 @@
 # Student Registration
 > Business use case
+
 This application let's an institution register itself, and view it's ID.
 
 On the other hand students can register and pay fees using ethers and that amount can be changed in future, but now it is static.
