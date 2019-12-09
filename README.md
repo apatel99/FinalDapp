@@ -1,16 +1,21 @@
-#Student Registration
--> Business use case
+# Student Registration
+> Business use case
 This application let's an institution register itself, and view it's ID.
-On the other hand students can register and pay fees using ethers and that amount can be changed in future, but now it is static. Once the registration fees has been paid the status of the student changes and shows him as a registered student for the institute. This application can be built using blockchain to have Ethereum transactions and that is why I chose to make a dapp. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+On the other hand students can register and pay fees using ethers and that amount can be changed in future, but now it is static.
+
+Once the registration fees has been paid the status of the student changes and shows him as a registered student for the institute.
+
+This application can be built using blockchain to have Ethereum transactions and that is why I chose to make a dapp. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 # Technologies :-
-I have used react and Metamask to build this application and as i have used metamask so didnt use backend.
+I have used react and Metamask to build this application. As I have used Metamask, I didn't use backend.
+
 Testing is done using embark and link is Testing: https://github.com/apatel99/Finaltest
+
 I have used firebase for  database. I have not used redux as there is not interaction between components in my app.
 and also added stylings from CSS.
-
-
 
 
 ## Available Scripts
